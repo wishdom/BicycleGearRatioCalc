@@ -2,7 +2,7 @@
 
 The **Simple Bicycle Gear Ratio Calculator** is a user-friendly application designed to help cyclists determine optimal gear combinations and understand their cycling performance. By inputting the number of teeth on the front gear and selecting the appropriate wheel size, you can calculate the gear inch, gear ratio, and RPM at various speeds.
 
-Built with Python and PyQt5, the application boasts a clean and modern graphical interface, ensuring ease of use and accessibility.
+Built with Python and PyQt5.
 
 ## Features
 
